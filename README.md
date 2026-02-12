@@ -1,4 +1,4 @@
-# Migrate Changes Using Retrieved Update Sets
+# Migrating Changes Using Retrieved Update Sets
 
 ## Overview
 This repository demonstrates the process of migrating configuration changes between ServiceNow instances using Update Sets. The focus is on retrieving an update set from an XML file, previewing platform changes for potential conflicts, committing the update set, and validating that configuration updates were successfully applied.
